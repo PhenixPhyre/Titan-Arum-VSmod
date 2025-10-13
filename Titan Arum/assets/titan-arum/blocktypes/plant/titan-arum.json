@@ -22,6 +22,7 @@
   "randomizeAxes": "xz",
   "sideopaque": { "all": false },
   "sidesolid": { "all": true },
+  "blockmaterial": "Plant",
   "replaceable": 3000,
   "lightAbsorption": 0,
   "resistance": 0.5,
