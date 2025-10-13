@@ -3,7 +3,7 @@
   "modId": "titan-arum",
   "name": "Titan Arum",
   "authors": ["_PhenixPhyre_"],
-  "description": "Mod that is so cool it freezes you.",
+  "description": "Adds Titan Arum or the giant corpse flower",
   "version": "1.0.0",
   "dependencies": {
     "game": ""
