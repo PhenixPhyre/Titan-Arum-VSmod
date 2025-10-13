@@ -1,0 +1,41 @@
+{
+  "code": "titan-arum",
+  "class": "BlockPlant",
+  "textures": {
+    "titan-arum": {
+      "base": "blocks/plant/titan-arum/titan-arum.png"
+    }
+  },
+  "behaviors": [
+    { "name": "DropNotSnowCovered" }
+  ],
+  "attributes": {
+    "butterflyFeed": false,
+    "beeFeed": false
+  },
+  "creativeinventory": { "general": ["*"], "flora": ["*"] },
+  "renderpass": "OpaqueNoCull",
+  "drawtype": "json",
+  "shape": { "base": "titan-arum:shapes/blocks/plant/titan-arum-shape.json" },
+  "randomDrawOffset": false,
+  "randomizeRotations": true,
+  "randomizeAxes": "xz",
+  "sideopaque": { "all": false },
+  "sidesolid": { "all": true },
+  "replaceable": 3000,
+  "lightAbsorption": 0,
+  "resistance": 0.5,
+  "collisionbox": null,
+  "sounds": {
+    "place": "block/plant",
+    "break": "block/plant",
+    "hit": "block/plant"
+  },
+  "rainPermeable": false,
+  "materialDensity": 200,
+  "combustibleProps": {
+    "burnTemperature": 600,
+    "burnDuration": 5
+  },
+  "frostable": true
+}

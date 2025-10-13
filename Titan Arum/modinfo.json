@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modId": "titan-arum",
+  "name": "Titan Arum",
+  "authors": ["_PhenixPhyre_"],
+  "description": "Mod that is so cool it freezes you.",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": ""
+  }
+}
