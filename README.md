@@ -8,4 +8,4 @@ Spawns in the same zone as the Rafflesia.
 Requires a minimum temperature of 30°C and at least 75% rainfall, and will only spawn in heavily forested areas.
 
 
-Get the Mod on VS Mod DB: [Gaint Corpse Flower](https://mods.vintagestory.at/show/mod/32960)
+Get the Mod on VS Mod DB: [Giant Corpse Flower](https://mods.vintagestory.at/show/mod/32960)
